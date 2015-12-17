@@ -1,1 +1,13 @@
 /* Inserta tu código aqui */
+*{
+  outline:solid red 1px;
+}
+h3{
+	color:white;
+}
+.menu{
+	background:#2c3e50;
+}
+#list-nav{
+	list-style:none;
+}
