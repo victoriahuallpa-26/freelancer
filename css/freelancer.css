@@ -1,7 +1,7 @@
 /* Inserta tu código aqui */
-*{
+/*{
   outline:solid red 1px;
-}
+}*/
 h3{
 	color:white;
 	font-size:20px;
@@ -16,6 +16,11 @@ h2{
 #especial{
 	color:white;
 	text-align:center;
+	margin:15px 0 50px 0;
+   }
+.especial-1{
+    color:white;
+	text-align:justify;
 	margin:15px 0 50px 0;
 }
 .menu{
@@ -85,6 +90,7 @@ h2{
 }
 .img-1{
 	width:200px;
+	margin:20px;
 }
 .acerca{
 	height:100px;
@@ -97,7 +103,25 @@ h2{
 .foter{
 	background:#2c3e50;
 }
+.glyphicon-user{
+	color:#2c3e50;
+	margin:5px;
+}
+.boton{
+	width:200px;
+	margin:0 auto;
+}
+.btn-default{
+   background:#18bc9c;
+   border-color:white;
+   margin-bottom:20px;
+   color:#2c3e50;
 
+}
+.form-control{
+	width:400px;
+	margin:0 auto;
+}
 
 
 
