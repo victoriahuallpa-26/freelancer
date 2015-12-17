@@ -8,6 +8,16 @@ h3{
 	width:200px;
 	margin-left:40%;
 }
+h2{
+	color:white;
+	text-align:center;
+	margin:40px 0 30px 0;
+}
+#especial{
+	color:white;
+	text-align:center;
+	margin:15px 0 50px 0;
+}
 .menu{
 	background:#2c3e50;
 }
@@ -17,15 +27,19 @@ h3{
 #list-nav li{
    width:100px;
    display:inline-block;
-   height:30px;
+   height:25px;
    margin-top:20px;
 
 }
 #list-nav a{
 	color:white;
 	text-decoration:none;
-	font-size:13px;
+	font-size:12px;
+	margin:20px;
 	}
+#list-nav li:hover{
+  background:#111820;
+}
 .super-star{
 	background:#18bc9c;
 }
@@ -37,6 +51,7 @@ h3{
 }
 .estrella{
 	color:white;
+	margin:0 5px 0 5px;
 }
 .linea , .estrella{
 	display:inline-block;
