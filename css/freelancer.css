@@ -40,6 +40,10 @@ h2{
 #list-nav li:hover{
   background:#111820;
 }
+#negro{
+	color:black;
+	margin:50px 0 30px 0;
+}
 .super-star{
 	background:#18bc9c;
 }
@@ -53,12 +57,26 @@ h2{
 	color:white;
 	margin:0 5px 0 5px;
 }
+.linea-1{
+    width:60px;
+	height:2px;
+	background:black;
+	margin-bottom:5px;
+}
+.estrella-1{
+	color:black;
+	margin:0 5px 0 5px;
+}
+.linea-1 , .estrella-1{
+	display:inline-block;
+}
 .linea , .estrella{
 	display:inline-block;
 }
 .logotipo{
 	width:160px;
 	margin:0 auto;
+	margin-bottom:15px;
 }
 .content{
 	width:800px;
