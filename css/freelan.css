@@ -1,0 +1,164 @@
+.navbar-default{
+	border-radius:0!important;
+	margin-bottom:0;
+}
+.navbar-right li:hover{
+   background:#111820;
+ }
+.navbar-right li a:hover{
+	color:white!important;
+	}
+.blanco{
+	color:white;
+	font-family:Montserrat;
+	text-align:center;
+	margin-top:50px;
+}
+.blanco-parrafo{
+	color:white;
+	text-align:center;
+	margin-bottom:50px;
+}
+h3{
+	margin-top:50px;
+	text-align:center;
+	font-family:Montserrat;
+}
+.logotipo{
+	width:160px;
+	margin:0 auto;
+	margin-bottom:15px;
+}
+.linea , .estrella{
+	display:inline-block;
+}
+.linea-1 , .estrella-1{
+	display:inline-block;
+}
+.linea{
+	width:60px;
+	height:2px;
+	background:white;
+	margin-bottom:5px;
+}
+.linea-1{
+	width:60px;
+	height:2px;
+	background:black;
+	margin-bottom:5px;
+}
+.estrella{
+	color:white;
+	margin:0 5px 0 5px;
+}
+.estrella-1{
+	color:black;
+	margin:0 5px 0 5px;
+}
+.turquesa{
+	background:#18bc9c;
+}
+.imagen-1{
+	width:100%;
+	margin-top:20px;
+
+}
+img{
+	width:100%;
+	margin-bottom:20px;
+
+}
+.especial-1{
+    color:white;
+	text-align:justify;
+	margin:15px 0 50px 0;
+}
+.boton{
+	width:200px;
+	margin:0 auto;
+}
+.btn-default{
+   background:#18bc9c;
+   border-color:white;
+   margin-bottom:20px;
+   color:#2c3e50;
+   margin-top:10px;
+}
+.glyphicon-user{
+	color:#2c3e50;
+	margin:5px;
+}
+.especial{
+	height:60px;
+}
+.especial-2{
+	height:30px;
+}
+.mensaje{
+	padding-bottom:100px;
+}
+.iconos-footer{
+	width:150px;
+	margin:0 auto;
+}
+.icono{
+	color:white;
+	padding:5px;
+	border:solid 1px white;
+	border-radius:100%!important;
+}
+h5{
+	color:white;
+	text-align:center;
+	margin-top:40px;
+}
+.gris-oscuro{
+background:#2c3e50;
+
+}
+.blanco-peque{
+	color:white;
+	font-size:15px;
+	text-align:center;
+}
+#parrafo-footer{
+	font-size:10px;
+	color:white;
+	text-align:center;
+	margin-top:20px;
+}
+.color-footer{
+	background:#111820;
+	height:50px;
+}
+/*blog*/
+.parrafo-turquesa{
+	color:#18bc9c;
+	text-align:left;
+   margin:4px 0 4px 0;
+  
+}
+
+/*about*/
+
+.foto-logo{
+	width:150px;
+}
+.logo{
+	width:150px;
+	margin:0 auto;
+	margin-top:70px;
+}
+@media screen and (max-width:600px){
+	.parrafo-turquesa{
+		font-size:18px;
+	}
+	h3{
+		font-size:18px;
+	}
+}
+
+
+
+
+
